@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naveencj11
-- 👀 I’m interested in Data Science, Ethical Hacking
-- 🌱 I’m currently learning C++, Java
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Advance Java
 
 - 📫 How to reach me naveenjalibenchi@gmail.com
 
